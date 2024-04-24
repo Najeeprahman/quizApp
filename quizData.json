@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Which of the following is the highest governing body of association football?",
+        "options": ["IOC", "FIFA", "UEFA", "NFL"],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many players are allowed on the field from each team during a football match?",
+        "options": ["7", "9", "11", "13"],
+        "correctIndex": 2
+    },
+    {
+        "question": "In which year was the first FIFA World Cup held?",
+        "options": ["1904", "1930", "1950", "1970"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": ["BRAZIL", "ARGENTINA", "PORTUGAL", "FRANCE"],
+        "correctIndex": 0
+    }
+]
